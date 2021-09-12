@@ -1,0 +1,63 @@
+.upper_table{
+  display: flex;
+}
+p{
+  margin-left: 15px;
+}
+.coin{
+  width: 250px;
+  margin-left: 80px;
+}
+.price,.hour,.hours,.days,.last_days{
+width: 85px;
+}
+.volume,.cap{
+  width: 190px;
+  margin-left: 33px
+}
+
+
+/* data css */
+.rank{
+  width: 100px;
+}
+.star_logo{
+  padding-right: 15px;
+}
+.coin_first{
+  width: 150px;
+  margin-left: 10px;
+}
+.coin_detail img{
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+.coin_detail p{
+  width: 120px;
+  font-size: 16px;
+}
+.coin_detail{
+  font-size: 12px;
+  display: flex;
+}
+.symbol_detail{
+  width: 285px;
+}
+.coin_symbol{
+  padding-top: 5px;
+  margin-left: 50px;
+  width: 20px;
+}
+.coin_buy{
+  margin-left: 5px;
+  padding: 1px 3px;
+  background-color: #f3f4f6;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.volume{
+  margin-left: 15px;
+}
+
+
